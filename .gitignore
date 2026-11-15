@@ -1,0 +1,6 @@
+# Binary output
+/exiftool
+/exiftool.exe
+
+# Go build cache
+*.test
